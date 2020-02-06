@@ -4,3 +4,6 @@ visual-studio-exercicio-4-lucas-arch created by GitHub Classroom
 
 04-02-2020
 Foi feito a Ficha de trabalho nº1
+
+issue criado
+fork criado
