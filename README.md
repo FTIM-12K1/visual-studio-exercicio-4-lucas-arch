@@ -7,3 +7,6 @@ Foi feito a Ficha de trabalho nº1
 
 issue criado
 fork criado
+
+11-02-2020
+Alteração realizada pelo Tiago aceite e verificada.
